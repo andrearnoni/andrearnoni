@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **JavaScript, Jest and React**
 
-- 👨‍💻 All of my projects are available at [https://andredepira.github.io/portfolio/](https://andredepira.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [here (under construction!)](https://andredepira.github.io/portfolio/)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **andre_arnoni@yahoo.com.br**
-
-- ⚡ Fun fact **I like to talk a lot**
+- ⚡ Fun fact - **I like to talk a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
