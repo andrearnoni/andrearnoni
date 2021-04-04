@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **JavaScript, Jest and React**
 
-- 👨‍💻 All of my projects are available at [here (under construction!)](https://andredepira.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at (under construction!) [here](https://andredepira.github.io/portfolio/)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about: **anything**
 
 - ⚡ Fun fact - **I like to talk a lot**
 
