@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andrearnoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrearnoni" height="30" width="40" /></a>
-<a href="https://fb.com/andre arnoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andre arnoni" height="30" width="40" /></a>
+<a href="https://fb.com/andre.arnoni.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andre arnoni" height="30" width="40" /></a>
 <a href="https://instagram.com/andredepira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andredepira" height="30" width="40" /></a>
 </p>
 
