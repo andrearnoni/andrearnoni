@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **anything**
 
-- ⚡ Fun fact - **I like to talk a lot**
+- ⚡ Fun fact: **I like to play with my dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
