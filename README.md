@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Back-End (MySQL, MongoDB, Node.js)**
 
-- 👨‍💻 All of my projects are available at (under construction!) [here](https://andredepira.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at (under construction!) [here](https://andrearnoni.github.io)
 
 - 💬 Ask me about: **anything**
 
