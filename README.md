@@ -1,9 +1,9 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm André</h1>
 <h3 align="center">A Web Development Student from Brazil, curious and passionate for technology</h3>
 
-- 🌱 I’m currently learning **Back-End (MySQL, MongoDB, Node.js)**
+- 🌱 I’m currently learning **Back-End (Node.js)**
 
-- 👨‍💻 All of my projects are available at (under construction!) [here]()
+- 👨‍💻 All of my projects are available at [here]("https://andrearnoni.vercel.app/")
 
 - 💬 Ask me about: **anything**
 
