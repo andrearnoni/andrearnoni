@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Back-End (Node.js)**
 
-- 👨‍💻 All of my projects are available at [here](https://andrearnoni.vercel.app/)
+- 👨‍💻 All of my projects are available at [here](https://andrearnoni.vercel.app/){:target="_blank"}
 
 - 💬 Ask me about: **anything**
 
