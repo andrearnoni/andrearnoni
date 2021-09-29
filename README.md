@@ -1,9 +1,11 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm André</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&size=40&center=true&vCenter=true&width=1000&height=60&lines=Andr%C3%A9+Arnoni)](https://git.io/typing-svg)
 <h3 align="center">A Web Development Student from Brazil, curious and passionate for technology</h3>
 
 - 🌱 I’m currently learning **Back-End (Node.js)**
 
-- 👨‍💻 All of my projects are available at [here](https://andrearnoni.vercel.app/)
+- 👨‍💻 My portfolio with my selected projects are available [>> here <<](https://andrearnoni.vercel.app/)
+
+- 📫 Keep in touch: **andre_arnoni@yahoo**.com.br
 
 - 💬 Ask me about: **anything**
 
