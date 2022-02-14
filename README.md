@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&size=40&center=true&vCenter=true&width=1000&height=80&lines=Andr%C3%A9+Arnoni)](https://git.io/typing-svg)
-<h3 align="center">A Web Development Student from Brazil, curious and passionate for technology</h3>
+<h3 align="center">A Full Stack Developer from Brazil, curious and passionate for technology</h3>
 
 - 🌱 I’m currently learning **C#**
 
